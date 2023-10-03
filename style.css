@@ -1,0 +1,30 @@
+.container{
+    text-align: center;
+}
+#res-area{
+    width:350px;
+    height:300px;
+    border: 3px solid yellow;
+    border-radius: 10px;
+    background-color: yellow;
+    margin: auto;
+    margin-top: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+    font-style: italic;
+    font-weight: 100;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: blue;
+}
+#start{
+    font-weight: 200;
+    font: bold ;
+    padding: 10px;
+    color:blue;
+    cursor: pointer;
+}
+.header{
+    text-align: center;
+}
